@@ -8,7 +8,6 @@ for future machine learning modeling. The goal is to make the dataset
 
 ## Dataset
 - **Source:** Training Dataset (https://github.com/ArinB/MSBA-CA-Data/raw/main/CA01/house-price-train.csv)
-- **File Used:** house-price-train.csv
 - **Target Variable:** SalePrice
 - **Description File:** data_description.txt
 
