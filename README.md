@@ -1,7 +1,7 @@
 # CA01 – Exploratory Data Analysis: House Price Dataset
 
 ## Project Overview
-This project performs Exploratory Data Analysis (EDA) on the Ames Housing dataset to
+This project performs Exploratory Data Analysis (EDA) on a housing dataset to
 understand the data structure, identify data quality issues, and prepare the dataset
 for future machine learning modeling. The goal is to make the data analytics-ready
 through systematic data understanding and cleaning, without performing model training.
