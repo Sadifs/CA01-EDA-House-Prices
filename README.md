@@ -26,7 +26,7 @@ The following Python libraries are required:
 - seaborn
 
 Python version: 3.x  
-Notebook environment: Jupyter / Google Colab
+Notebook environment: Jupyter
 
 ## Analysis Workflow
 The notebook follows the three required CA01 stages:
